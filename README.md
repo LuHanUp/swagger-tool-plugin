@@ -21,4 +21,4 @@ public class SubmitOrderRequestVO {
 ~~~
 
 效果图如下:  
-[显示枚举类型的文档描述信息](images/显示枚举类型的文档描述信息.jpg)
+![显示枚举类型的文档描述信息](images/显示枚举类型的文档描述信息.jpg)
