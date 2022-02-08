@@ -1,4 +1,4 @@
-package top.luhancc.swagger.tool.plugin.example.domain.rule;
+package top.luhancc.swagger.tool.plugin.example.domain.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

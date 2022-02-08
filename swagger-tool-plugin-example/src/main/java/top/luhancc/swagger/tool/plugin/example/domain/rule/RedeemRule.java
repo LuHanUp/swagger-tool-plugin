@@ -3,6 +3,7 @@ package top.luhancc.swagger.tool.plugin.example.domain.rule;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 import top.luann.swagger.tool.plugin.enums.ShowEnumDoc;
+import top.luhancc.swagger.tool.plugin.example.domain.enums.DiscountSillType;
 
 import java.util.List;
 
